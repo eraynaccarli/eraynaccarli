@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eray Nacarlı</h1>
-<h3 align="center">I am a MIS Student from Ufuk University</h3>
+<h3 align="center">I am a Management Information System Student at Ufuk University from Turkey</h3>
 
 - 🌱 I’m currently learning **Java Spring**
 
